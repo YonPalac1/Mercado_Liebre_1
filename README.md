@@ -1,5 +1,5 @@
-# Mercado Liebre 1
-## Practica estructura de un sitio web Parte 1 / Digital House
+# Mercado Liebre 1 - Practica integradora / Digital House
+## Estructura de un sitio Web
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_1">Mercado Liebre 1</a><br/>
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_2">Mercado Liebre 2</a><br/>
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_3">Mercado Liebre 3</a><br/>
